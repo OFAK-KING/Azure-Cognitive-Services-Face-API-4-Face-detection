@@ -1,0 +1,2 @@
+# Azure-Cognitive-Services-Face-API-4-Face-detection
+Calling the Azure Cognitive Services Face API in python for face detection, when an image is pushed through the algorithm using python. The Face API detects human faces in an image and returns the rectangle coordinates of their locations. Optionally, face detection can extract a series of face-related attributes. Examples are head pose, gender, age, emotion, facial hair, and glasses. https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview
